@@ -6,8 +6,7 @@ This project contains automated tests for the registration flow of Almatar.com u
 - [Tools and Libraries](#tools-and-libraries)
 - [Testing Approach](#testing-approach)
 - [Dependencies](#Dependencies)
-
-- 
+  
 ## Introduction
 
 This Selenium project aims to automate the happy scenario of registration process on Almatar.com to ensure a smooth user experience and catch any potential bugs or issues.
